@@ -1,3 +1,7 @@
+## Note: The contents of this repository is migrated to [cl-tohoku/bert-japanese](https://github.com/cl-tohoku/bert-japanese).
+
+---
+
 # BERT Models for Japanese NLP
 
 BERT models trained on Japanese texts.
